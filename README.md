@@ -1,0 +1,1 @@
+Example of using Xtext + Gradle with an existing metamodel

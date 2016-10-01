@@ -1,0 +1,9 @@
+build
+xtext-gen
+xtend-gen
+bin
+src-gen
+.project
+.classpath
+.settings
+.gradle
